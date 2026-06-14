@@ -4,9 +4,7 @@
 
 ---
 
-Atualmente, tenho 19 anos, moro na Paraíba e sou graduando em Ciência da Computação pela Universidade Federal de Campina Grande (UFCG). Tenho experiência com desenvolvimento web e estruturação de sistemas, buscando sempre aplicar lógica e boas práticas de engenharia de software para construir soluções sólidas e eficientes.
-
-Embora eu goste de explorar o desenvolvimento de software como um todo, tenho um forte interesse em Inteligência Artificial e Ciência de Dados, e venho dedicando meus estudos para descobrir como integrar essas tecnologias no dia a dia das aplicações. 
+Atualmente, tenho 19 anos, moro na Paraíba e sou graduando em Ciência da Computação pela Universidade Federal de Campina Grande (UFCG). Tenho experiência com desenvolvimento web e estruturação de sistemas, buscando sempre aplicar lógica e boas práticas de engenharia de software para construir soluções sólidas e eficientes. Embora eu goste de explorar o desenvolvimento de software como um todo, tenho um forte interesse em Inteligência Artificial e Ciência de Dados, e venho dedicando meus estudos para descobrir como integrar essas tecnologias no dia a dia das aplicações. 
 
 ---
 
